@@ -1,0 +1,20 @@
+d:\northwindTraining\CustomerMigration\Dotnet\bin\NorthwindBase.xml
+d:\northwindTraining\CustomerMigration\Dotnet\bin\NorthwindBase.dll
+d:\northwindTraining\CustomerMigration\Dotnet\bin\NorthwindBase.pdb
+d:\northwindTraining\CustomerMigration\Dotnet\NorthwindBase\obj\Debug\NorthwindBase.csprojAssemblyReference.cache
+d:\northwindTraining\CustomerMigration\Dotnet\NorthwindBase\obj\Debug\Northwind.Properties.Resources.resources
+d:\northwindTraining\CustomerMigration\Dotnet\NorthwindBase\obj\Debug\NorthwindBase.csproj.GenerateResource.cache
+d:\northwindTraining\CustomerMigration\Dotnet\NorthwindBase\obj\Debug\NorthwindBase.csproj.CoreCompileInputs.cache
+d:\northwindTraining\CustomerMigration\Dotnet\NorthwindBase\obj\Debug\NorthwindBase.csproj.CopyComplete
+d:\northwindTraining\CustomerMigration\Dotnet\NorthwindBase\obj\Debug\NorthwindBase.dll
+d:\northwindTraining\CustomerMigration\Dotnet\NorthwindBase\obj\Debug\NorthwindBase.pdb
+C:\Users\User\3D Objects\Desktop\shekel test\Dotnet\Dotnet\NorthwindBase\obj\Debug\NorthwindBase.csProjAssemblyReference.cache
+C:\Users\User\3D Objects\Desktop\shekel test\Dotnet\Dotnet\NorthwindBase\obj\Debug\Northwind.Properties.Resources.resources
+C:\Users\User\3D Objects\Desktop\shekel test\Dotnet\Dotnet\NorthwindBase\obj\Debug\NorthwindBase.csProj.GenerateResource.cache
+C:\Users\User\3D Objects\Desktop\shekel test\Dotnet\Dotnet\NorthwindBase\obj\Debug\NorthwindBase.csProj.CoreCompileInputs.cache
+C:\Users\User\3D Objects\Desktop\shekel test\Dotnet\Dotnet\bin\NorthwindBase.xml
+C:\Users\User\3D Objects\Desktop\shekel test\Dotnet\Dotnet\bin\NorthwindBase.dll
+C:\Users\User\3D Objects\Desktop\shekel test\Dotnet\Dotnet\bin\NorthwindBase.pdb
+C:\Users\User\3D Objects\Desktop\shekel test\Dotnet\Dotnet\NorthwindBase\obj\Debug\NorthwindBase.csproj.CopyComplete
+C:\Users\User\3D Objects\Desktop\shekel test\Dotnet\Dotnet\NorthwindBase\obj\Debug\NorthwindBase.dll
+C:\Users\User\3D Objects\Desktop\shekel test\Dotnet\Dotnet\NorthwindBase\obj\Debug\NorthwindBase.pdb
