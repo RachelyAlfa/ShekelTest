@@ -10,12 +10,6 @@
         <member name="M:Northwind.Customers.IShowCustomers.Run(ENV.TextParameter)">
             <summary>Show Customers(P#3)</summary>
         </member>
-        <member name="T:Northwind.Products.IShowCProducts">
-            <summary>Show Products(P#4)</summary>
-        </member>
-        <member name="M:Northwind.Products.IShowCProducts.Run(ENV.NumberParameter)">
-            <summary>Show Products(P#4)</summary>
-        </member>
         <member name="T:Northwind.Products.IShowProducts">
             <summary>Show Products(P#4)</summary>
         </member>

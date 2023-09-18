@@ -81,7 +81,6 @@
   <ItemGroup>
     <Compile Include="Customers\IShowCustomers.cs" />
     <Compile Include="Products\IProductsFillter.cs" />
-    <Compile Include="Products\IShowCproducts.cs" />
     <Compile Include="Products\IShowProducts.cs" />
     <Compile Include="Orders\IShowOrders.cs" />
     <Compile Include="AsyncHelperBase.cs" />

@@ -13,4 +13,3 @@ C:\Users\User\3D Objects\Desktop\shekel test\Dotnet\Dotnet\bin\NorthwindInterfac
 C:\Users\User\3D Objects\Desktop\shekel test\Dotnet\Dotnet\NorthwindInterfaces\obj\Debug\NorthwindInterfaces.csproj.CopyComplete
 C:\Users\User\3D Objects\Desktop\shekel test\Dotnet\Dotnet\NorthwindInterfaces\obj\Debug\NorthwindInterfaces.dll
 C:\Users\User\3D Objects\Desktop\shekel test\Dotnet\Dotnet\NorthwindInterfaces\obj\Debug\NorthwindInterfaces.pdb
-C:\Users\User\3D Objects\Desktop\shekel test\Dotnet\Dotnet\NorthwindInterfaces\obj\Debug\NorthwindInterfaces.csProjAssemblyReference.cache
